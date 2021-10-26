@@ -1,0 +1,28 @@
+关闭Unity
+taskkill /f /t /im Unity.exe
+主干Unity
+D:\\Unity\\Editor\\Unity.exe -projectPath E:\\DreamRivakesTrunk\\ClientPublish\\Bin
+主干Unity2222
+D:\\Unity\\Editor\\Unity.exe -projectPath F:\\DreamRivakesTrunkBackUp\\ClientPublish\\Bin
+单机Unity
+D:\\Unity\\Editor\\Unity.exe -projectPath E:\\DreamRivakesOffLine\\ClientPublish\\Bin
+ReleaseUnity
+D:\\Unity\\Editor\\Unity.exe -projectPath E:\\DreamRivakesrelease\\ClientPublish\\Bin
+PublishUnity
+D:\\Unity\\Editor\\Unity.exe -projectPath E:\\DreamRivakesPublish\\ClientPublish\\Bin
+RcUnity
+D:\\Unity\\Editor\\Unity.exe -projectPath E:\\DreamRivakesRC\\ClientPublish\\Bin
+主干VsCode
+code E:\\DreamRivakesTrunk\\ClientPublish\\Bin\\Assets\\Resources\\LuaProject\\
+主干VsCode2222
+code F:\\DreamRivakesTrunkBackUp\\ClientPublish\\Bin\\Assets\\Resources\\LuaProject\\
+单机VsCode
+code E:\\DreamRivakesOffLine\\ClientPublish\\Bin\\Assets\\Resources\\LuaProject\\
+ReleaseVsCode
+code E:\\DreamRivakesrelease\\ClientPublish\\Bin\\Assets\\Resources\\LuaProject\\
+PublishVsCode
+code E:\\DreamRivakesPublish\\ClientPublish\\Bin\\Assets\\Resources\\LuaProject\\
+RcVsCode
+code E:\\DreamRivakesRC\\ClientPublish\\Bin\\Assets\\Resources\\LuaProject\\
+主干VS
+E:\DreamRivakesTrunk\Program\Server\MMServer\MMServer.sln

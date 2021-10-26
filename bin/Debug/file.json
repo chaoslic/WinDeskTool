@@ -1,0 +1,66 @@
+[
+{
+    "Name" : "【主干】Unity",
+    "CMD" : "D:\\Unity\\Editor\\Unity.exe -projectPath E:\\DreamRivakesTrunk_New\\ClientPublish\\Bin"
+},
+{
+    "Name" : "【主干】VsCode",
+    "CMD" : "code E:\\DreamRivakesTrunk_New\\ClientPublish\\Bin\\Assets\\Resources\\LuaProject\\"
+},
+{
+    "Name" : "【主干】VS",
+    "CMD" : "E:\\DreamRivakesTrunk_New\\Program\\Server\\MMServer\\MMServer.sln"
+},
+{
+    "Name" : "【Release】Unity",
+    "CMD" : "D:\\Unity\\Editor\\Unity.exe -projectPath E:\\DreamRivakesrelease\\ClientPublish\\Bin"
+},
+{
+    "Name" : "【Release】VsCode",
+    "CMD" : "code E:\\DreamRivakesrelease\\ClientPublish\\Bin\\Assets\\Resources\\LuaProject\\"
+},
+{
+    "Name" : "【主干2】Unity",
+    "CMD" : "D:\\Unity\\Editor\\Unity.exe -projectPath F:\\DreamRivakesTrunkBackUp\\ClientPublish\\Bin"
+},
+{
+    "Name" : "【主干2】VsCode",
+    "CMD" : "code F:\\DreamRivakesTrunkBackUp\\ClientPublish\\Bin\\Assets\\Resources\\LuaProject\\"
+},
+{
+    "Name" : "【海外】Unity",
+    "CMD" : "D:\\Unity\\Editor\\Unity.exe -projectPath E:\\DreamRivakesOversea\\ClientPublish\\Bin"
+},
+{
+    "Name" : "【海外】VsCode",
+    "CMD" : "code E:\\DreamRivakesOversea\\ClientPublish\\Bin\\Assets\\Resources\\LuaProject\\"
+},
+{
+    "Name" : "【单机】Unity",
+    "CMD" : "D:\\Unity\\Editor\\Unity.exe -projectPath F:\\DreamRivakesOffLine\\ClientPublish\\Bin"
+},
+{
+    "Name" : "【单机】VsCode",
+    "CMD" : "code F:\\DreamRivakesOffLine\\ClientPublish\\Bin\\Assets\\Resources\\LuaProject\\"
+},
+{
+    "Name" : "【Publish】Unity",
+    "CMD" : "D:\\Unity\\Editor\\Unity.exe -projectPath F:\\DreamRivakesPublish\\ClientPublish\\Bin"
+},
+{
+    "Name" : "【Publish】VsCode",
+    "CMD" : "code F:\\DreamRivakesPublish\\ClientPublish\\Bin\\Assets\\Resources\\LuaProject\\"
+},
+{
+    "Name" : "【Rc】Unity",
+    "CMD" : "D:\\Unity\\Editor\\Unity.exe -projectPath F:\\DreamRivakesRC\\ClientPublish\\Bin"
+},
+{
+    "Name" : "【Rc】VsCode",
+    "CMD" : "code F:\\DreamRivakesRC\\ClientPublish\\Bin\\Assets\\Resources\\LuaProject\\"
+},
+{
+    "Name" : "关闭Unity",
+    "CMD" : "taskkill /f /t /im Unity.exe"
+}
+]
