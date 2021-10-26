@@ -70,14 +70,15 @@
             <ColumnDefinition Width="13*"/>
             <ColumnDefinition Width="9*"/>
             <ColumnDefinition Width="14*"/>
-            <ColumnDefinition Width="62*"/>
+            <ColumnDefinition Width="61*"/>
+            <ColumnDefinition/>
             <ColumnDefinition Width="36*"/>
             <ColumnDefinition Width="13*"/>
-            <ColumnDefinition Width="194*"/>
+            <ColumnDefinition Width="193*"/>
             <ColumnDefinition Width="12*"/>
         </Grid.ColumnDefinitions>
-        <Label x:Name="label3" Content="" HorizontalAlignment="Left" Margin="114.5,7,-387,0" VerticalAlignment="Top" Height="42" Width="284" Grid.Column="9"/>
-        <ListView x:Name="BtnPar" HorizontalAlignment="Left" Height="419" VerticalAlignment="Top" Width="357" SelectionChanged="BtnPar_SelectionChanged" Background="#FF4F4F4F" Grid.ColumnSpan="10">
+        <Label x:Name="label3" Content="" HorizontalAlignment="Left" Margin="115,7,-387,0" VerticalAlignment="Top" Height="42" Width="284" Grid.Column="10"/>
+        <ListView x:Name="BtnPar" HorizontalAlignment="Left" Height="419" VerticalAlignment="Top" Width="357" SelectionChanged="BtnPar_SelectionChanged" Background="#FF4F4F4F" Grid.ColumnSpan="11">
             <ListView.View>
                 <GridView>
                     <GridViewColumn/>
